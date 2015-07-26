@@ -12,7 +12,7 @@ A simple one page website hosted with gh-pages. For this project I wanted to pla
 - Flexbox
 - Wiewport units (vh, vw)
 
-[translatingmatters](translatingmatters.co.uk) | [Github](https://github.com/translatingmatters/translatingmatters.github.io)
+[translatingmatters](http://www.translatingmatters.co.uk) | [Github](https://github.com/translatingmatters/translatingmatters.github.io)
 
 ### CloudListly
 
@@ -38,3 +38,4 @@ A Harp small blog application
 - CSS
 - Git and Github
 - Heroku
+- TDD
