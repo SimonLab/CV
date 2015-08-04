@@ -1,8 +1,14 @@
 # CV
 
-Hello, I'm Simon a Full-Stack JavaScript developer and I'm pround to be a member of [Founders & Coders](http://www.foundersandcoders.com/). I just finish a 8 weeks training program and I'm now starting my freelance activity as a web developer.
+Hello, I'm Simon a Full-Stack JavaScript developer and I'm pround to be a member of [Founders & Coders](http://www.foundersandcoders.com/). I just finish a 8 weeks training program and I'm now starting my freelance activity as a web developer. You can contact me at simon@foundersandcoders.com
 
 ## Projects
+
+### Prolifiko
+
+An application to "kickstart and continue your blogging habit". This project is build with Hapijs, Material Design, MongoDB and Tape for the tests.
+
+[Github](https://github.com/Prolifiko/prolifiko) | [prolifiko website](http://www.prolifiko.com/) | [Write Track](https://www.write-track.co.uk/)
 
 ### Translating Matters
 
@@ -12,18 +18,22 @@ A simple one page website hosted with gh-pages. For this project I wanted to pla
 - Flexbox
 - Wiewport units (vh, vw)
 
-[translatingmatters](http://www.translatingmatters.co.uk) | [Github](https://github.com/translatingmatters/translatingmatters.github.io)
+[Github](https://github.com/translatingmatters/translatingmatters.github.io) |
+[translatingmatters](http://www.translatingmatters.co.uk)
 
 ### CloudListly
 
 A music player using the SoundCloud API and HTML audio tags
-[CloudListly](http://codersindev.github.io/CloudListly) | [Github](https://github.com/CodersInDev/CloudListly)
+
+[Github](https://github.com/CodersInDev/CloudListly) |
+[CloudListly](http://codersindev.github.io/CloudListly)
 
 ### Coders In Dev Blog
 
 A Harp small blog application
 
-[Blog CodersInDev](http://codersindev.github.io/blog/) | [Github](https://github.com/CodersInDev/blog)
+[Github](https://github.com/CodersInDev/blog) |
+[Blog CodersInDev](http://codersindev.github.io/blog/)
 
 ## Skills
 
