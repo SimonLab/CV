@@ -8,7 +8,7 @@ Hello, I'm Simon a Full-Stack JavaScript developer and I'm pround to be a member
 
 An application to "kickstart and continue your blogging habit". This project is build with Hapijs, Material Design, MongoDB and Tape for the tests.
 
-[Github](https://github.com/Prolifiko/prolifiko) | [prolifiko website](http://www.prolifiko.com/) | [Write Track](https://www.write-track.co.uk/)
+[Github](https://github.com/Prolifiko/prolifiko) | [prolifiko](http://prolifiko.herokuapp.com/) | [prolifiko website](http://www.prolifiko.com/) | [Write Track](https://www.write-track.co.uk/)
 
 ### Translating Matters
 
