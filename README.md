@@ -85,4 +85,4 @@ Web development with PHP at the medical maritime centre in Toulouse
 
 - [Github](https://github.com/SimonLab)
 - [Traveling Blog](http://ontheotherside.eu/blog/)
-- [simon@founcdersandcoders]: mailto:simon@foundersandcoders.com
+- [simon@founcdersandcoders](:mailto:simon@foundersandcoders.com)
