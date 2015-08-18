@@ -62,7 +62,7 @@ A music player using the SoundCloud API and a custom HTML audio player.
 - Agile/Scrum techniques, TDD/BDD best practices, pair programming
 - UX Design
 
-### Landscape gardener at fFlorea Ltd, Toulouse, France  - 2012/2014
+### Landscape gardener at Florea Ltd, Toulouse, France  - 2012/2014
 
 Designed and maintained gardens.
 
