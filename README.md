@@ -1,8 +1,8 @@
 # Simon Labondance
 
-I am a Full-stack JavaScript web developer with a background in Mathematics and Information Technology. I have recently graduate from [Founders And Coders](http://www.foundersandcoders.com/), an intensive and highly selective web development bootcamp, and I am now seeking for new projects where I can continue to develop my skills.
+I am a Full-stack JavaScript web developer with a background in Mathematics and Information Technology. I have recently graduate from [Founders And Coders](http://www.foundersandcoders.com/), an intensive and highly selective web development bootcamp, and I am now seeking for new projects where I can continue to enhance my skills.
 
-Logical yet also creative, I love learning new concepts and testing new ideas in my code, and always strive to find the best solution to problems.
+Logical yet also creative, I love learning new concepts and testing new ideas in my code, and I always strive to find the best solution to problems.
 
 ## Skills
 
@@ -31,7 +31,7 @@ Logical yet also creative, I love learning new concepts and testing new ideas in
 
 ### Prolifiko
 
-[Github](https://github.com/Prolifiko/prolifiko) - [prolifiko application](prolifiko.herokuapp.com)
+[Github](https://github.com/Prolifiko/prolifiko) - [prolifiko application](http://www.prolifiko.com/)
 
 An web application to "kickstart and continue your blogging habit". This project is build with Hapijs, Material Design, MongoDB, Tape and Travis for.
 
@@ -85,7 +85,7 @@ Creation of a MySQL database and PHP application to enable doctors to record and
 |      Dates      |       Institution       |              Subject(s)              |
 | --------------- |-------------------------|--------------------------------------|
 |  2015 | Founders And Coders, London | Javascript Bootcamp |
-|  2009-2011 | Jean Jaures University, Toulouse | IT Management for Business |
+|  2009-2011 | Jean Jaures University, Toulouse | Masters degree in IT Management for Business |
 |  2005-2009 | Jean Jaures University, Toulouse | BSc in Applied Maths and Social Sciences |
 
 ## Contact
