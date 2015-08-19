@@ -1,18 +1,17 @@
 # Simon Labondance
 
-I am a Full-stack JavaScript web developer with a background in Mathematics and Information Technology. I have recently graduate from [Founders And Coders](http://www.foundersandcoders.com/), an intensive and highly selective web development bootcamp, and I am now seeking for new projects where I can continue to enhance my skills.
+I am a Full-stack JavaScript web developer with a background in Mathematics and Information Technology. I have recently graduate from [Founders And Coders](http://www.foundersandcoders.com/), an intensive and highly selective web development bootcamp, and I am now looking for new projects where I can continue to enhance my skills.
 
 Logical yet also creative, I love learning new concepts and testing new ideas in my code, and I always strive to find the best solution to problems.
 
 ## Skills
 
 - **JavaScript**
-- **Hapijs**
-- **Nodejs**
+- **Node.js**
+- **hapi**
 - **HTML5**
 - **CSS3**
 - **Redis**
-- **MongoDB**
 - **Deployment with Heroku**
 - **version controlling with Git and Github**
 - **Test Driven Development with Tape and Lab**
@@ -57,7 +56,7 @@ A music player using the SoundCloud API and a custom HTML audio player.
 
 ### Freelance at Founders and Coders - (May 2015 - Now)
 
-- 8-week highly selective coding bootcamp
+- 16-week highly selective coding bootcamp
 - Full-stack web development in Javascript and Node.js
 - Agile/Scrum techniques, TDD/BDD best practices, pair programming
 - UX Design
@@ -65,11 +64,6 @@ A music player using the SoundCloud API and a custom HTML audio player.
 ### Landscape gardener at Florea Ltd, Toulouse, France  - 2012/2014
 
 Designed and maintained gardens.
-
-- Drew-up quotes
-- Provided excellent customer advice
-- Ensured deadlines were met
-- Worked successfully both alone and as part of a team
 
 ### Internship developer at the Medical Maritime Centre, Toulouse, France - 2010/2011
 
