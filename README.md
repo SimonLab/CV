@@ -6,25 +6,15 @@ Logical yet also creative, I love learning new concepts and testing new ideas in
 
 ## Skills
 
-- **JavaScript**
-- **Node.js**
-- **hapi**
-- **HTML5**
-- **CSS3**
-- **Redis**
-- **Deployment with Heroku**
-- **version controlling with Git and Github**
-- **Test Driven Development with Tape and Lab**
-- **Pair programming**
-- **Continuous Integration Travis**
-- **Markdown**
-- Express
-- React
-- Riot
-- Harpjs
-- Angular
-- jQuery
-- API - Twitter, SoundClound, Instagram
+|Language      |Framework     |Database    |Testing |Tools/others
+|:------------:|:------------:|:----------:|:----------:|:----------:|
+|JavaScript    |hapi.js       |Redis       |Lab         |Git/Github
+|Node.js       |React.js      |MongoDB     |Tape        |Bitbucket
+|HTML5         |JQuery        |PostgreSQL  |Code        |npm
+|CSS3          |Bootstrap     |MySQL       |QUnit       |Heroku
+|SASS/SCSS     |Harp.js       |            |Mocha       |API
+|Markdown      |Riot.js       |            |Travis
+
 
 ## My last projects
 
