@@ -18,16 +18,22 @@ Logical yet also creative, I love learning new concepts and testing new ideas in
 
 ## My last projects
 
+### Arteur
+
+[Github](https://github.com/Arteur/arteur) - [Arteur application](http://arteur.herokuapp.com/)
+
+A art review application. This application is using [Hapijs](http://hapijs.com/) and [Amazon S3](https://aws.amazon.com/s3/) to upload directly pictures form the application.
+
 ### Prolifiko
 
-[Github](https://github.com/Prolifiko/prolifiko) - [prolifiko application](http://www.prolifiko.com/)
+[Github](https://github.com/Prolifiko/prolifiko) - [Prolifiko application](http://www.prolifiko.com/)
 
 An web application to "kickstart and continue your blogging habit". This project is build with Hapijs, Material Design, MongoDB, Tape and Travis for.
 
 ### Translating Matters
 
 [Github](https://github.com/translatingmatters/translatingmatters.github.io) |
-[translatingmatters website](http://www.translatingmatters.co.uk)
+[Translatingmatters website](http://www.translatingmatters.co.uk)
 
 A single-page application hosted on Github. For this project I wanted to play with some interesting CSS properties:
 
