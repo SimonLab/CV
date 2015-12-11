@@ -26,7 +26,7 @@ A art review application. This application is using [Hapijs](http://hapijs.com/)
 
 ### Prolifiko
 
-[Github](https://github.com/Prolifiko/prolifiko) - [Prolifiko application](http://www.prolifiko.com/)
+[Github](https://github.com/Prolifiko/prolifiko)
 
 An web application to "kickstart and continue your blogging habit". This project is build with Hapijs, Material Design, MongoDB, Tape and Travis for.
 
