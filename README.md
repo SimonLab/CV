@@ -9,10 +9,10 @@ Logical yet also creative, I love learning new concepts and testing new ideas in
 |Language      |Framework     |Database    |Testing |Tools/others
 |:------------:|:------------:|:----------:|:----------:|:----------:|
 |JavaScript    |hapi.js       |Redis       |Lab         |Git/Github
-|Node.js       |React.js      |MongoDB     |Tape        |Bitbucket
+|Node.js       |React.js      |Elasticsearch     |Tape        |Bitbucket
 |HTML5         |JQuery        |PostgreSQL  |Code        |npm
 |CSS3          |Bootstrap     |MySQL       |QUnit       |Heroku
-|SASS/SCSS     |Harp.js       |            |Mocha       |API
+|SASS/SCSS     |Harp.js       |MongoDB            |Mocha       |API
 |Markdown      |Riot.js       |            |Travis
 
 
